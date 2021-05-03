@@ -855,3 +855,97 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.03-13.12.21:387][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.05.03-13.12.21:390][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
 [2021.05.03-13.12.21:413][423]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.05.03-13.53.53:779][446]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.03-13.53.54:007][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.03-13.53.54:007][446]PIE: New page: PIE session: MainMenu_L (3 May 2021 19:53:54)
+[2021.05.03-13.53.54:007][446]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_MainMenu_L
+[2021.05.03-13.53.54:011][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003737s)
+[2021.05.03-13.53.54:012][446]LogAIModule: Creating AISystem for world MainMenu_L
+[2021.05.03-13.53.54:012][446]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2021.05.03-13.53.54:012][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/MainMenu_L.MainMenu_L to /Game/StarterContent/Maps/UEDPIE_0_MainMenu_L.MainMenu_L (0.004893s)
+[2021.05.03-13.53.54:017][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.03-13.53.54:018][446]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.03-13.53.54:018][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-13.53.54:018][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-13.53.54:018][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-13.53.54:018][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-13.53.54:018][446]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-13.53.54:018][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-13.53.54:018][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-13.53.54:018][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-13.53.54:018][446]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-13.53.54:018][446]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-13.53.54:021][446]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-13.53.54:021][446]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-13.53.54:027][446]LogAudioMixer: Display: Using Audio Device Hoparlörler (Realtek(R) Audio)
+[2021.05.03-13.53.54:027][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-13.53.54:027][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-13.53.54:027][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-13.53.54:028][446]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-13.53.54:028][446]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-13.53.54:028][446]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-13.53.54:039][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-13.53.54:039][446]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-13.53.54:039][446]LogInit: FAudioDevice initialized.
+[2021.05.03-13.53.54:039][446]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu_L'.
+[2021.05.03-13.53.54:043][446]LogLoad: Game class is 'GameModeBase'
+[2021.05.03-13.53.54:045][446]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_MainMenu_L.MainMenu_L up for play (max tick rate 0) at 2021.05.03-16.53.54
+[2021.05.03-13.53.54:045][446]LogWorld: Bringing up level for play took: 0.001748
+[2021.05.03-13.53.54:045][446]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.05.03-13.53.54:048][446]PIE: Server logged in
+[2021.05.03-13.53.54:048][446]PIE: Play in editor total start time 0,042 seconds.
+[2021.05.03-13.53.55:155][579]LogNet: Browse: /Game/StarterContent/Maps/Minimal_Default
+[2021.05.03-13.53.55:155][579]LogLoad: LoadMap: /Game/StarterContent/Maps/Minimal_Default
+[2021.05.03-13.53.55:155][579]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_MainMenu_L
+[2021.05.03-13.53.55:156][579]LogWorld: UWorld::CleanupWorld for MainMenu_L, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-13.53.55:156][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-13.53.55:199][579]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-13.53.55:202][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.05.03-13.53.55:214][579]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2021.05.03-13.53.55:215][579]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.03-13.53.55:215][579]LogLoad: Game class is 'GameModeBase'
+[2021.05.03-13.53.55:220][579]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.05.03-16.53.55
+[2021.05.03-13.53.55:221][579]LogWorld: Bringing up level for play took: 0.005157
+[2021.05.03-13.53.55:222][579]LogLoad: Took 0.066547 seconds to LoadMap(/Game/StarterContent/Maps/Minimal_Default)
+[2021.05.03-13.53.58:473][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-13.53.58:473][963]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.03-13.53.58:473][963]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-13.53.58:473][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-13.53.58:481][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-13.53.58:483][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-13.53.58:489][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-13.53.58:489][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-13.53.58:489][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-13.53.58:504][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.05.03-13.53.58:545][967]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.05.03-13.54.03:417][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.03-13.54.03:422][535]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.03-13.54.03:462][535]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.05.03-13.54.03:463][535]Cmd: MAP LOAD FILE="../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.03-13.54.03:463][535]LightingResults: New page: Lighting Build
+[2021.05.03-13.54.03:463][535]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2021.05.03-13.54.03:503][535]LogWorld: UWorld::CleanupWorld for MainMenu_L, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-13.54.03:503][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-13.54.03:503][535]MapCheck: New page: Map Check
+[2021.05.03-13.54.03:503][535]LightingResults: New page: Lighting Build
+[2021.05.03-13.54.03:518][535]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-13.54.03:523][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.05.03-13.54.03:524][535]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.05.03-13.54.03:599][535]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.03-13.54.03:600][535]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.03-13.54.03:606][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.05.03-13.54.03:615][535]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.03-13.54.03:615][535]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,083ms to complete.
+[2021.05.03-13.54.03:615][535]LogFileHelpers: Loading map 'Minimal_Default' took 0.153
+[2021.05.03-13.54.08:202][ 79]LogEditorViewport: Clicking on Actor (LMB): Pallet_BP_C (Pallet_BP)
+[2021.05.03-13.54.10:863][396]Cmd: DELETE
+[2021.05.03-13.54.10:863][396]Cmd: ACTOR DELETE
+[2021.05.03-13.54.10:914][396]LogEditorActor: Deleted Actor: Pallet_BP_C
+[2021.05.03-13.54.10:928][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.05.03-13.54.10:930][396]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2021.05.03-13.54.12:366][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.03-13.54.12:381][562]LogSavePackage: Moving '../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Saved/Minimal_Default5C0C92984080C0E2E78065B65223CBDB.tmp' to '../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.05.03-13.54.12:448][562]LogSavePackage: Moving '../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Saved/Minimal_Default_BuiltDataC40586134872E6D02BA5C49FD6257109.tmp' to '../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.05.03-13.54.12:458][562]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.03-13.54.12:458][562]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.05.03-13.54.12:458][562]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
