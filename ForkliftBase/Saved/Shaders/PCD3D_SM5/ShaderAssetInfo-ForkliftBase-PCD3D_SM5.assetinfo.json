@@ -221,9 +221,41 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2BBD5E57E1782D1F2887171B320BCF984EFA55A0",
+			"ShaderMapHash": "3DCB9A7326AC69709E40948208C4869DC1427499",
 			"Assets": [
-				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/Materials/M_ConcretePillar01_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6781B8C7DA3C60094D222711B28D709079F37EA3",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/Materials/M_LampSet_01.uasset",
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Chassis.uasset",
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "44ED270A4214EA2432ECBB32DA9FB374AC10D1F6",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "94EB8C42486608465E948598270DF54AC28B49A8",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "17B2758286D829FF6589C4CD01F8701D618225E8",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "01C8C1CB329D586C1591D113A5786B084D31BA32",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
 			]
 		},
 		{
@@ -233,51 +265,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "EFE9C51D7D26BE67A352B90A2DD61C0CB3F83628",
+			"ShaderMapHash": "1201AC7437BAAEA0C306E98C06E9627362D7A3F2",
 			"Assets": [
-				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "00D65A8AC680436C92F1335346B2CB71546895B0",
-			"Assets": [
-				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "716511C7F2553049BE686CC038AC13A042496EEB",
-			"Assets": [
-				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
-			"Assets": [
-				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "0FE92F7A80E331B9101AF184E6B800D00D3EB9DB",
-			"Assets": [
-				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Props/Materials/M_Statue.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
-			"Assets": [
-				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "6781B8C7DA3C60094D222711B28D709079F37EA3",
-			"Assets": [
-				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/Materials/M_LampSet_01.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "3DCB9A7326AC69709E40948208C4869DC1427499",
-			"Assets": [
-				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/Materials/M_ConcretePillar01_Master.uasset"
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/Blueprints/UI/M_HItPoint.uasset"
 			]
 		},
 		{
@@ -293,9 +283,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "1201AC7437BAAEA0C306E98C06E9627362D7A3F2",
+			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
 			"Assets": [
-				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/Blueprints/UI/M_HItPoint.uasset"
+				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
 			]
 		},
 		{
@@ -314,6 +304,13 @@
 			"ShaderMapHash": "FD2325E266AE8FA725B570B13BA1ADA3CF25BCDD",
 			"Assets": [
 				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B316CF34FF48313721D5744F675582CB6BDE54CA",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Interior.uasset",
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Box.uasset"
 			]
 		},
 		{
@@ -362,12 +359,6 @@
 			"ShaderMapHash": "CA043011157D3F0E5F3B4FCE1F0A4C84C560655E",
 			"Assets": [
 				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Wood_Oak.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "44ED270A4214EA2432ECBB32DA9FB374AC10D1F6",
-			"Assets": [
-				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
 			]
 		},
 		{
@@ -455,24 +446,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "94EB8C42486608465E948598270DF54AC28B49A8",
-			"Assets": [
-				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Ground_Grass.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "17B2758286D829FF6589C4CD01F8701D618225E8",
-			"Assets": [
-				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "2CB2505DC37386508890CD8B7AA8259D32DB51DE",
-			"Assets": [
-				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "9732BB67E7B01B76E3A36DEC3FB06B83D5A1B032",
 			"Assets": [
 				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
@@ -488,12 +461,6 @@
 			"ShaderMapHash": "894C7354ACE316054282CECB3D7CAA3188137158",
 			"Assets": [
 				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "01C8C1CB329D586C1591D113A5786B084D31BA32",
-			"Assets": [
-				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
 			]
 		},
 		{
@@ -524,6 +491,12 @@
 			"ShaderMapHash": "FB2D21D70E35E4BEE0A80F9ABD2AA162C2725DC8",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2CB2505DC37386508890CD8B7AA8259D32DB51DE",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
 			]
 		},
 		{
@@ -560,6 +533,42 @@
 			"ShaderMapHash": "8783C3F34079967805E0FC7756662EE44E9F2ABD",
 			"Assets": [
 				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0FE92F7A80E331B9101AF184E6B800D00D3EB9DB",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Props/Materials/M_Statue.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EFE9C51D7D26BE67A352B90A2DD61C0CB3F83628",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2BBD5E57E1782D1F2887171B320BCF984EFA55A0",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "00D65A8AC680436C92F1335346B2CB71546895B0",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "716511C7F2553049BE686CC038AC13A042496EEB",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
 			]
 		},
 		{
@@ -718,6 +727,73 @@
 			"ShaderMapHash": "630559B55CBC253820E3FDD68F252725A3BBEC8C",
 			"Assets": [
 				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/StarterContent/Architecture/M_Wall_Window_400x300_M_Rock_Basalt_44031A294EEDA07C12A950B140E50592.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "42A00775F300540E7F81EDA4C5E62EB1BEF64F25",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/VehicleVarietyPack/Materials/Masters/M_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "83CD59B1B8DE79CC144A21F7AC0775BF3548AFFE",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/Materials/M_BaseMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BEA485E86FB51B31C7CB2391BF15D5B0CEB2D5C2",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/Materials/M_Pallet.uasset",
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/Materials/M_PaperBoxes_03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "31380E94328C2C0DB359C87371792875DF5DB249",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/Materials/M_3ColorsMaskBase.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5D3A28B72881437E3B91EF7A7BA7875C51FA625A",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/Materials/M_BaseMaterialRGBEmissive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3FABB192F63669188005620CA6B3D86241C8A4D2",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/Materials/M_GrayFloor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A8E593D530597CB87355800679A19D3E8FFBB9B8",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/Materials/M_BaseMetal.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F4D0A0449C7E17CBDF1A2E3DFA4C1810A0546FC3",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/Materials/M_Truck01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F72781CFB233E950FF147C17C36FDC15BDCE9636",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/Materials/M_DecalMapMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "75F7BB273579CC05A3B73F5073EDAEE4E028D3AE",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/Materials/M_MasterBlend.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A095D9B6D850AB1FD3A87BA2791B04926CE348E8",
+			"Assets": [
+				"../../../../UE-Projects/repo/CSE396-Group9UI/ForkliftBase/Content/Fx/Material/M_Outline_Only.uasset"
 			]
 		}
 	]
